@@ -1,2 +1,5 @@
 # Conta-Terminal
-Project simulating bank transfer involving basic Java programming
+
+DIO Project:
+
+Project simulating bank transfer involving basic Java programming for DIO Plataform
