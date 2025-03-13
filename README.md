@@ -1,2 +1,2 @@
 # Conta-Terminal
-Código em java básico simulando a transação bancária
+Project simulating bank transfer involving basic Java programming
